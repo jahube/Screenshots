@@ -1,0 +1,8 @@
+Download the GPO Templates here
+https://www.microsoft.com/en-eg/download/details.aspx?id=49030
+
+https://github.com/jahube/Screenshots/blob/master/GPO/0-GPO-Templates-Outlook-Office.png
+
+https://github.com/jahube/Screenshots/blob/master/GPO/1-GPO-Outlook-AutoArchive.png
+
+https://www.howto-outlook.com/howto/policies.htm
