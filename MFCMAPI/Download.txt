@@ -1,0 +1,8 @@
+
+https://github.com/stephenegriffin/mfcmapi/releases
+
+32 Bit
+https://github.com/stephenegriffin/mfcmapi/releases/download/20.0.20307.01/MFCMAPI.exe.20.0.20307.01.zip
+
+64 Bit
+https://github.com/stephenegriffin/mfcmapi/releases/download/20.0.20307.01/MFCMAPI.x64.exe.20.0.20307.01.zip
