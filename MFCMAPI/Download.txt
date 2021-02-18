@@ -6,3 +6,7 @@ https://github.com/stephenegriffin/mfcmapi/releases/download/20.0.20307.01/MFCMA
 
 64 Bit
 https://github.com/stephenegriffin/mfcmapi/releases/download/20.0.20307.01/MFCMAPI.x64.exe.20.0.20307.01.zip
+
+
+For reference: - duplicate folders steps
+https://support.microsoft.com/en-us/topic/how-to-remove-duplicate-folders-in-outlook-when-connected-to-an-exchange-server-mailbox-4bdfa98d-fafe-8a33-288f-0e031671bec2
