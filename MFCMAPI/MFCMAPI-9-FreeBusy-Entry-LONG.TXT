@@ -1,3 +1,6 @@
+For reference: - PR_FREEBUSY_ENTRYIDS steps -Sharing + F/B issues
+https://support.microsoft.com/en-us/topic/you-experience-issues-in-outlook-when-you-try-to-configure-free-busy-information-or-when-you-try-to-delegate-information-7167b76e-5a56-1a94-08b7-41186c873d9b
+
 After you follow the steps bellow, you may have to reconfigure settings that are related to the following features:
 
 Free/busy publishing
