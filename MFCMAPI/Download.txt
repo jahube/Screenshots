@@ -7,6 +7,9 @@ https://github.com/stephenegriffin/mfcmapi/releases/download/20.0.20307.01/MFCMA
 64 Bit
 https://github.com/stephenegriffin/mfcmapi/releases/download/20.0.20307.01/MFCMAPI.x64.exe.20.0.20307.01.zip
 
+For reference: - PR_FREEBUSY_ENTRYIDS steps -Sharing + F/B issues
+https://support.microsoft.com/en-us/topic/you-experience-issues-in-outlook-when-you-try-to-configure-free-busy-information-or-when-you-try-to-delegate-information-7167b76e-5a56-1a94-08b7-41186c873d9b
+
 For reference: - duplicate folders steps
 https://support.microsoft.com/en-us/topic/how-to-remove-duplicate-folders-in-outlook-when-connected-to-an-exchange-server-mailbox-4bdfa98d-fafe-8a33-288f-0e031671bec2
 
