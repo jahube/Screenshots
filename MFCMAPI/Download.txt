@@ -18,3 +18,6 @@ https://docs.microsoft.com/de-de/archive/blogs/hkong/how-to-delete-corrupted-hid
 
 For reference: CALENDAR-SHARING-ISSUE # 10
 https://support.microsoft.com/en-us/topic/error-message-when-you-share-a-calendar-in-microsoft-365-b9f75bc2-3a8d-4755-a827-d02948ffefce
+
+For reference: MFCMAPI-2-IPF.Folder #2
+https://docs.microsoft.com/en-us/exchange/troubleshoot/move-or-migrate-mailboxes/cannot-view-mailbox-folders-after-imap-migration
