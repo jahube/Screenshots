@@ -15,3 +15,6 @@ https://support.microsoft.com/en-us/topic/how-to-remove-duplicate-folders-in-out
 
 For reference: - Hidden Inbox rules steps
 https://docs.microsoft.com/de-de/archive/blogs/hkong/how-to-delete-corrupted-hidden-inbox-rules-from-a-mailbox-using-mfcmapi
+
+For reference: CALENDAR-SHARING-ISSUE # 10
+https://support.microsoft.com/en-us/topic/error-message-when-you-share-a-calendar-in-microsoft-365-b9f75bc2-3a8d-4755-a827-d02948ffefce
